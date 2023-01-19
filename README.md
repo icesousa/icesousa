@@ -5,7 +5,8 @@
 
 Meu Nome é Erysson e eu Desenvolvo Software desde 2022. Eu amo aprender coisas novas todo dia, e acredito que o desenvolvimento de software é uma das melhores maneiras de fazer isso. Meus principais interesses incluem desenvolvimento de aplicativos móveis (iOS e Android), arquitetura de software e design de interface do usuário.
 
-Recentemente, comecei um curso de front-end para iniciantes dado pela Meta, visando expandir meus conhecimentos e habilidades.
+Recentemente, comecei um curso de Desenvolvimento Front-end  dado pela Meta completamente em inglês, visando expandir meus conhecimentos e habilidades e melhorar ainda mais meu inglês.
+
 <div style="display: inline-block;">
   <img align="center" alt="Ice-Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 100px"/>
   <img align="center" alt="Ice-Dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="margin-right: 10px"/>
