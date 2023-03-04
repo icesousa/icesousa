@@ -1,10 +1,9 @@
-<h1 align="center" >👋 Hi, I’m @IceSousa 👀</h1>
+<h1 align="center" >👋 Hi, I’m Erysson Sousa 👀</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer)](https://git.io/typing-svg)
 
 
-Meu Nome é Erysson e eu Desenvolvo Software desde 2022. Eu amo aprender coisas novas todo dia, e acredito que o desenvolvimento de software é uma das melhores maneiras de fazer isso. Meus principais interesses incluem desenvolvimento de aplicativos móveis (iOS e Android), arquitetura de software e design de interface do usuário.
-
+Sou um desenvolvedor de software desde 2022 e apaixonado por aprender coisas novas todos os dias. Acredito que a programação é uma das melhores maneiras de fazer isso. Meus principais interesses são o desenvolvimento de aplicativos móveis (iOS e Android), arquitetura de software e design de interface do usuário.
 
 
 <div style="display: inline-block;">
@@ -14,3 +13,6 @@ Meu Nome é Erysson e eu Desenvolvo Software desde 2022. Eu amo aprender coisas 
 
           
                  
+<h2 Meus principais projetos 🚀 </h2>
+Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribuí:
+<a href="https://github.com/icesousa/cep_app1" target="_new"><strong>CEP App</strong></a>
