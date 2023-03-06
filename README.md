@@ -1,4 +1,4 @@
-<h1 align="center" >👋 Hi, I’m Erysson Sousa 👀</h1>
+<h1 align="center" >👋 Oi, Sou o Erysson Sousa 👀</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer)](https://git.io/typing-svg)
 
