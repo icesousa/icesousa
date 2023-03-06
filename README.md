@@ -16,8 +16,9 @@ Sou um desenvolvedor de software desde 2022 e apaixonado por aprender coisas nov
 <h2 Meus principais projetos 🚀 </h2>
 Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribuí:
 
-<li>
+
 <a href="https://github.com/icesousa/cep_app1" target="_new"><strong>CEP App</strong></a>
+
 <a href="https://github.com/icesousa/Crypto_App" target="_new"><strong>Crypto App</strong></a>
 
-</li>
+
