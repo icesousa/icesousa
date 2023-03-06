@@ -1,6 +1,7 @@
 <h1 align="center" >👋 Oi, Sou o Erysson Sousa 👀</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer)](https://git.io/typing-svg)
+
 
 Sou um desenvolvedor de software desde 2022 e apaixonado por aprender coisas novas todos os dias. Acredito que a programação é uma das melhores maneiras de fazer isso. Meus principais interesses são o desenvolvimento de aplicativos móveis (iOS e Android), arquitetura de software e design de interface do usuário.
 
