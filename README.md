@@ -18,7 +18,6 @@ Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribu
 
 <li>
 <a href="https://github.com/icesousa/cep_app1" target="_new"><strong>CEP App</strong></a>
-
 <a href="https://github.com/icesousa/Crypto_App" target="_new"><strong>Crypto App</strong></a>
 
 </li>
