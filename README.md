@@ -6,13 +6,10 @@
 
 Sou um desenvolvedor Flutter apaixonado por criar aplicativos móveis bonitos e funcionais. Tenho experiência em Dart, Firebase, Provider. Estou sempre buscando aprender novas tecnologias e melhorar as minhas habilidades. Meus principais interesses são o desenvolvimento de aplicativos móveis, arquitetura de software e design de interface do usuário.
 
+<a href="https://flutter.dev/" target="_new"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter Badge"></a>
+<a href="https://dart.dev/" target="_new"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart Badge"></a>
+<a href="https://firebase.google.com/" target="_new"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="Firebase Badge"></a>
 
-<div style="display: inline-block;">
-  <img align="center" alt="Ice-Flutter-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 50px"/>
-  <img align="center" alt="Ice-Dart-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="margin-right: 50px"/>
- <img align="center" alt= "Ice-Firebase-icon" height ="30" width ="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style ="margin-right:50px"/>
-          
-</div>
 
           
                  
@@ -21,10 +18,21 @@ Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribu
 
 
 <a href="https://github.com/icesousa/cep_app1" target="_new"><strong>CEP App</strong></a>
+<p>Um aplicativo simples que permite ao usuário pesquisar informações sobre um CEP específico. O aplicativo foi desenvolvido utilizando Flutter e integração com a API ViaCEP. </p>
+
+| Package | Versão | Tipo |
+|--|--|--|
+| [![](https://img.shields.io/static/v1?label=flutter&message=dio&color=red??style=for-the-badge&logo=GitHub)](https://github.com/cfug/dio/tree/main/dio) | [![Pub Package](https://img.shields.io/badge/pub-v%204.0.6-blue)](https://pub.dartlang.org/packages/flutter_expandable_table) | HTTP |  |
+
+
+
+
 
 <a href="https://github.com/icesousa/Crypto_App" target="_new"><strong>Crypto App</strong></a>
+<p>Um aplicativo de monitoramento de criptomoedas onde pode-se fazer transações de compra, venda, visualizar historico de compra e venda, adicionar favoritas. visualizar carteira com graficos. feito com provider e sqflite </p>
 
 <a href="https://github.com/icesousa/todolist" target="_new"><strong>Todo App</strong></a>
+<p>Um aplicativo simples que permite ao usuário pesquisar informações sobre um CEP específico. O aplicativo foi desenvolvido utilizando Flutter e integração com a API ViaCEP. </p>
 
 ## Como entrar em contato comigo 📞
 [![Email Send](https://img.shields.io/badge/Email-icesousas%40gmail.com-blue)](mailto:icesousas@gmail.com)
