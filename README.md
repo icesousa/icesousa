@@ -4,12 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer)](https://git.io/typing-svg)
 
 
-Sou um desenvolvedor de software desde 2022 e apaixonado por aprender coisas novas todos os dias. Acredito que a programação é uma das melhores maneiras de fazer isso. Meus principais interesses são o desenvolvimento de aplicativos móveis (iOS e Android), arquitetura de software e design de interface do usuário.
+Sou um desenvolvedor Flutter apaixonado por criar aplicativos móveis bonitos e funcionais. Tenho experiência em Dart, Firebase, Provider. Estou sempre buscando aprender novas tecnologias e melhorar as minhas habilidades. Meus principais interesses são o desenvolvimento de aplicativos móveis, arquitetura de software e design de interface do usuário.
 
 
 <div style="display: inline-block;">
-  <img align="center" alt="Ice-Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 100px"/>
-  <img align="center" alt="Ice-Dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="margin-right: 10px"/>
+  <img align="center" alt="Ice-Flutter-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 50px"/>
+  <img align="center" alt="Ice-Dart-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="margin-right: 50px"/>
+ <img align="center" alt= "Ice-Firebase-icon" height ="30" width ="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style ="margin-right:50px"/>
+          
 </div>
 
           
