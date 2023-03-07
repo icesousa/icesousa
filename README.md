@@ -27,7 +27,7 @@ Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribu
 ## Como entrar em contato comigo 📞
 [![Email Send](https://img.shields.io/badge/Email-icesousas%40gmail.com-blue)](mailto:icesousas@gmail.com)
 
-[![Email Send](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/erysson-s-dos-santos-565947232/)
 
 
