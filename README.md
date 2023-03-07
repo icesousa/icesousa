@@ -1,4 +1,5 @@
-<h1 align="center" >👋 Oi, Sou o Erysson Sousa 👀</h1>
+
+# <h1 align="center" >👋 Oi, Sou o Erysson Sousa 👀</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer)](https://git.io/typing-svg)
 
@@ -13,7 +14,7 @@ Sou um desenvolvedor de software desde 2022 e apaixonado por aprender coisas nov
 
           
                  
-<h2 Meus principais projetos 🚀 </h2>
+## Meus principais projetos 🚀 
 Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribuí:
 
 
@@ -21,4 +22,7 @@ Aqui estão alguns dos meus projetos mais interessantes que eu criei ou contribu
 
 <a href="https://github.com/icesousa/Crypto_App" target="_new"><strong>Crypto App</strong></a>
 
+<a href="https://github.com/icesousa/todolist" target="_new"><strong>Todo App</strong></a>
 
+## Como entrar em contato comigo 📞
+[![Email Send](https://img.shields.io/badge/Email-icesousas%40gmail.com-blue)](mailto:icesousas@gmail.com)
