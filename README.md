@@ -10,7 +10,7 @@ Sou um desenvolvedor Flutter apaixonado por criar aplicativos móveis bonitos e 
 <div style="display: inline-block;">
   <img align="center" alt="Ice-Flutter-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 50px"/>
   <img align="center" alt="Ice-Dart-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="margin-right: 50px"/>
- <img align="center" alt= "Ice-Firebase-icon" height ="30" width ="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style ="margin-right:50px"/>
+ <img align="center" alt= "Ice-Firebase-icon" height ="30" width ="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style ="margin-right:50px"/>
           
 </div>
 
